@@ -1,13 +1,9 @@
 # Simulation of a Material Recycling System
 This is a Java application that consists of a control station and multiple recycling machines.
 
-**Control station**: allows administrator to log in and perform control tasks such as add or activate a recycling machine, view usage statistics of 
+**Control station**: allows administrator to log in and perform control tasks such as add or activate a recycling machine, view usage statistics of machines in the system in the form of a bar chart, etc.
 
-machines in the system in the form of a bar chart, etc.
-
-**Recycling machine**: allows users to deposit recycled items. Amount due to user is calculated based on item material and weight.  Machine 
-
-automatically shuts down when full.
+**Recycling machine**: allows users to deposit recycled items. Amount due to user is calculated based on item material and weight.  Machine automatically shuts down when full or out of money.
 
 
 ## User Stories
