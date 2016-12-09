@@ -30,3 +30,5 @@ This is a Java application that consists of a control station and multiple recyc
 
 
 ## Video Walkthrough 
+Here's a walkthrough of implemented user stories:
+[Video Walkthrough](http://s1070.photobucket.com/user/kimnguyen559/media/EcoRe_zpsy3qzqdx2.gif.html?filters[user]=145954608&filters[recent]=1&sort=1&o=0).
