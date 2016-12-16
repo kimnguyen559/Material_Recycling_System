@@ -23,8 +23,8 @@ This is a Java application that consists of a control station and multiple recyc
 
 #### The following features are implemented:
 * Maintain consistency between data storage and UI using *MVC (Model-View-Controller)* model
-* Create GUI for one Control station and one Recycling machine using *Java Swing API*
-* Persist the data with *Java Serialization API*
+* Create GUI for one Control station and one Recycling machine using *Java Swing* API
+* Persist the data with *Java Serialization* API
 * Implement automatic signal to Control station when a machine is full or out of money with *Observer* design pattern
 * Appropriately able/disable GUI control buttons according to different states of the machine object 
 
